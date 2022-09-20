@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    wrap: nowrap;
+}
+.blue{
+    font-size: x-large;
+}
+a{
+    text-decoration: none;
+}
+.margins 
+{
+  margin-left: 10%; 
+  width: 50%; 
+}
+.margin1
+{
+    margin-left: 10%;  
+  }
+.appletext{
+    width: 30%;
+}
+.button:hover {
+  transition-duration: 0.7s;
+  background-color: gainsboro;
+}
+.button2:hover {
+  transition-duration: 0.7s;
+  background-color:gainsboro;
+    }
+.button3:hover {
+  transition-duration: 0.7s;
+  background-color: gainsboro;
+        }
+.button4:hover {
+  transition-duration: 0.7s;
+  background-color: gainsboro;
+          }
+.button5:hover {
+  transition-duration: 0.7s;
+  background-color: gainsboro;
+            }
+ .bodytext {
+            color: black;
+            font-size: 16px;
+            font-weight: 400;
+            font-style: normal; 
+            margin: 6rem;
+             width: 70%; 
+        }
+.marginsnew 
+        {
+          width: 60%; 
+        }
+.center {
+        margin: auto;
+    }
+.vanessa {
+    width:31%; 
+}
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 150px;
+  }
+  .marginswhiteonblack
+  {
+    width: 72%; 
+  }
+ 
